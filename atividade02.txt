@@ -1,0 +1,11 @@
+1 - Pergunte ao usuário se ele trabalhou. No final, mostre se ele tem direito a receber o 
+salário ou não.
+
+2 - Leia o saldo da conta e o valor do produto que o usuário deseja comprar. Mostre se ele
+pode realizar a compra com o saldo disponível. (>=)
+
+3 - Faça um programa que receba a idade do usuário e diga se ele é maior de idade ou 
+menor (>=)
+
+4 - Faça um programa que receba um valor e diga se ele é positivo ou negativo. 
+(>) ou (<)

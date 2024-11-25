@@ -1,0 +1,14 @@
+2 - Crie um programa de calculadora que possa realizar operações básicas
+como soma, subtração, multiplicação e divisão. O programa deve permitir 
+que o usuário insira os números e a operação que deseja realizar.
+
+3 - O programa deve perguntar ao usuário sua idade e verificar se ele 
+pode entrar em um evento. O evento só permite a entrada de pessoas com 
+mais de 18 anos ou de pessoas com 16 ou 17 anos acompanhadas por um 
+responsável. Caso contrário, deve impedir a entrada.
+
+4 - O programa deve pedir ao usuário três números que representem os 
+lados de um triângulo. O programa deve determinar se os três lados formam
+um triângulo e, em caso afirmativo, identificar se é equilátero (todos os
+lados iguais), isósceles (dois lados iguais) ou escaleno (todos os lados 
+diferentes).
